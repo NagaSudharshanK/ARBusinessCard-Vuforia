@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rocheBlue" size="6.000000 3.375000" />
+    <ImageTarget name="logo" size="6.000000 3.375000" />
+  </Tracking>
+</QCARConfig>
